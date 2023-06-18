@@ -60,7 +60,7 @@ export default function App() {
         </div>
         <small>
           <a
-            href="https://github.com/KetBet/Vanilla-weather-app"
+            href="https://github.com/KetBet/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
