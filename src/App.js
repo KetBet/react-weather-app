@@ -14,7 +14,7 @@ export default function App() {
                     placeholder="Type a city.."
                     className="form-control"
                     id="city-input"
-                    autocomplete="off"
+                    autoFocus="on"
                   />
                 </div>
                 <div className="col-3">
