@@ -10,7 +10,7 @@ const root = createRoot(rootElement);
 root.render(
   <StrictMode>
     <div className="App">
-      <App />
+      <App defaultCity="New York" />
     </div>
   </StrictMode>
 );
