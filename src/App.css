@@ -37,10 +37,9 @@
   margin-bottom: 20px;
 }
 
-.weather-temperature img {
+.weather-temperature canvas {
   margin-right: 5px;
-  height: 64px;
-  width: 64px;
+  margin-top: 5px;
 }
 
 .weather-temperature strong {
